@@ -1,0 +1,10 @@
+# Ignore large datasets
+data/*
+# Ignore virtual environment (if applicable)
+venv/
+# Ignore output files
+outputs/*
+# Ignore specific Python cache files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
